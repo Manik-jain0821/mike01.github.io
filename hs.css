@@ -4,7 +4,7 @@ body{
 	margin-top: -90px;
 	padding: 0;
 	font-family: "Montserrat",sans-serif;
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(4.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(img/4.jpg);
 	background-size: cover;
 
 }
